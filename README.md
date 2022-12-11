@@ -1,7 +1,7 @@
 
 # Banking Sytem
 
-It is a simple banking system program in python where the user can deposit and withdraw. The users
+It is a simple banking system program in python. The users
 can create their own account to deposit and withdraw their money. It is also capable of creating 
 multiple accounts for each users and also creating a file for every user that use the system.
 The main function of our program is for the user to deposit, withdraw, view their balance and their
