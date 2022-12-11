@@ -18,6 +18,15 @@ The following are used:
 ##  Unified Modeling Language (UML)
 ![Untitled Workspace](https://user-images.githubusercontent.com/117901938/206882783-9a4e7f3c-4d13-4a5d-b352-efb1820162e7.png)
 
+# Self Assessment
+- Code Reusability - 3/4
+- Maintainability - 3/4
+- Scalability - 3/4
+- Execution - 3/4
+- Originality - 3/4
+- Overall Impression - 3/4
+- Total = 18/24
+
 # Note
 - To run the program access the terminal and type "py main.py" at the bottom.
 ![start](https://user-images.githubusercontent.com/117901938/206882867-553286cc-aa0e-49dc-8e4e-db3070001e66.PNG)
